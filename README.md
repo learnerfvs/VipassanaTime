@@ -6,7 +6,9 @@
 
 Vipassana meditation timer with sittings log & streak tracking
 
-<img width="1536" height="1024" alt="Coverimg" src="https://github.com/user-attachments/assets/3ac5deb3-65b5-40e1-ba3b-2d2062f3216b" />
+<img width="1536" height="1024" alt="Coverimg src="https://github.com/user-attachments/assets/cfed704d-281e-4945-a0a8-589720a10de2" />
+
+
 
 
 ## Full Description
