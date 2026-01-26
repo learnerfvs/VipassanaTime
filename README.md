@@ -1,6 +1,8 @@
 # Vipassana Time
 
-[CLosed Beta Testing](https://play.google.com/apps/testing/com.dhamma.time)        [Privacy Policy](https://github.com/learnerfvs/VipassanaTime/blob/main/Privacy%20Policy.md)
+[Download on Play Store](https://play.google.com/store/apps/details?id=com.dhamma.time)      
+
+[Privacy Policy](https://github.com/learnerfvs/VipassanaTime/blob/main/Privacy%20Policy.md)
 
 ## Short Description
 
